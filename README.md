@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привет! Я Зере 👋
 
-<!--
-**ZereZakaryanova/ZereZakaryanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Data Analyst
 
-Here are some ideas to get you started:
+Начинающий аналитик данных с навыками SQL, Python, Excel и Power BI. Работаю с данными, анализирую и визуализирую результаты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Навыки:
+- SQL (JOIN, GROUP BY, фильтрация)
+- Python (Pandas)
+- Excel (сводные таблицы, функции)
+- Power BI (дашборды)
+
+## 📊 Проекты:
+
+### 📌 Анализ продаж
+- Анализ данных продаж
+- Выявление трендов и закономерностей
+
+### 📌 A/B тестирование
+- Анализ результатов экспериментов
+- Проверка гипотез
+
+### 📌 Дашборды Power BI
+- Визуализация данных
+- Создание интерактивных отчетов
+
+## 📫 Контакты:
+- Email: zerezd14kill@gmail.com
+- GitHub: https://github.com/ZereZakaryanova
