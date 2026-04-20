@@ -1,16 +1,16 @@
 # Привет! Я Зере 👋
 
-🎯 Junior Data Analyst
+ Junior Data Analyst
 
 Начинающий аналитик данных с навыками SQL, Python, Excel и Power BI. Работаю с данными, анализирую и визуализирую результаты.
 
-## 🛠 Навыки:
+##  Навыки:
 - SQL (JOIN, GROUP BY, фильтрация)
 - Python (Pandas)
 - Excel (сводные таблицы, функции)
 - Power BI (дашборды)
 
-## 📊 Проекты:
+##  Проекты:
 
 ### 📌 Анализ продаж
 - Анализ данных продаж
@@ -24,6 +24,6 @@
 - Визуализация данных
 - Создание интерактивных отчетов
 
-## 📫 Контакты:
+##  Контакты:
 - Email: zerezd14kill@gmail.com
 - GitHub: https://github.com/ZereZakaryanova
