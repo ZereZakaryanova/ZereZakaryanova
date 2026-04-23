@@ -27,3 +27,5 @@
 ##  Контакты:
 - Email: zerezd14kill@gmail.com
 - GitHub: https://github.com/ZereZakaryanova
+- Tableau: https://public.tableau.com/app/profile/.50066938/viz/Book1_17708319075670/SuperstoreAnalysis
+- Looker Studio: https://datastudio.google.com/reporting/33cee437-5f9e-4e3b-8e38-4f9a8bdcfb07/page/JkpcF
